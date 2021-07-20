@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    background-color:  #85c1e9 ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    background-color:  #85c1e9 ;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1, h2{
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header h1{
+    background-color: linen;
+font-size: 50px;
+}
+
+header img{
+    border-radius: 170px;
+    border: 10px solid lightgoldenrodyellow;   
+    
+}

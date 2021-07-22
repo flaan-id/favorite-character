@@ -1,26 +1,86 @@
 body{
     margin: 0px;
-    background-color:  #85c1e9 ;
+    background-color: #aed6f1;
     font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    line-height: 20px;
 }
 
 header{
-    background-color:  #85c1e9 ;
+    background-color: #aed6f1;
     text-align: center;
     padding-top: 50px;
 }
 
 h1, h2{
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Mitr', sans-serif;
+}
+
+h1{
+    font-size: 35px;
+}
+
+h2{
+    font-size: 30px;
+    color: #3498db;
+}
+
+a{
+    color: #3498db;
+    padding: 20px 0;
+}
+
+a:hover{
+    color: purple;
 }
 
 header h1{
     background-color: linen;
-font-size: 50px;
+    font-size: 50px;
+    padding: 20px;
 }
 
 header img{
     border-radius: 170px;
     border: 10px solid lightgoldenrodyellow;   
-    
+}
+
+main{
+    max-width: 800px;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+.caption{
+    text-align: left;
+    font-style: italic;
+    color: black;
+    opacity: 50%;
+    margin-top: 0px;
+}
+
+.friends{
+    font-family: 'Mitr', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul img{
+    border-radius: 90px;
+    border: 10px solid lightgoldenrodyellow;   
+}
+
+footer{
+    background-color: linen;
+    text-align: center; 
+    padding: 50px; 
+}
+
+footer p{
+    margin: 0px;
 }
